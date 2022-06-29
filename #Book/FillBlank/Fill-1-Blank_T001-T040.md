@@ -900,72 +900,64 @@ The students' `volatile` nature were **in sharp contrast to** the **imperturbabl
 ## T 038
 ### Logic
 
+* 【特例】时间上确实有差异，但是出现了关键词 similarly ---- 即使出现了时间对比，前后也是同义重复
+	- 类似的 关键词：`similar, also, likewise, equally, the same`.
+
 ### Text
+
+Many readers today consider the moral sentiments expressed in the ancient writers' work to be quite vapid, and in the seventeenth century they were similarly regarded as `jejune`.
+
+### Verbal
+
+* [**jejune**]():
+	- `If you describe something or someone as jejune, you are criticizing them for being very simple and unsophisticated.` 幼稚的；不成熟的；头脑简单的
+		+ `jejune teen-age fads` 幼稚的青少年时尚/少年风尚
+	- `If you describe something or someone as jejune, you mean they are dull and boring.` 枯燥乏味的；单调的
+		+ `jejune evening` 漫长无聊的夜晚
+* [**vapid**](): `If you describe someone or something as vapid, you are critical of them because they are dull and uninteresting.` 乏味的;枯燥的;无趣的
+* [didactic](): 说教的
+* [dogmatic](): `If you say that someone is dogmatic, you are critical of them because they are convinced that they are right, and refuse to consider that other opinions might also be justified.` 武断的;固执己见的
+* [**tendentious**]():
+	- `Something that is tendentious expresses a particular opinion or point of view very strongly, especially one that many people disagree with.` 有强烈倾向性的;有偏见的;有争议的
+		+ `tendentious anomaly` 趋势异常
+		+ `tendentious pilot` 倾向性试验
+		+ `tendentious prediction` 趋势性预测
+* [arcane](): `Something that is arcane is secret or mysterious.` 秘密的；神秘的
+--------------------------
+
+## T 039
+### Logic
+
+
+
+### Text
+
+She constantly `excoriate` herself for not living up to her own ideals -- for not working hard enough or not having motives that were pure enough.
+
 
 
 ### Verbal
 
-* []():
-* []():
-* []():
-* []():
-* []():
-* []():
-* []():
-* []():
+* [coddle](): `To coddle someone means to treat them too kindly or protect them too much.` **溺爱**;娇纵
+* [exalt](): `To exalt someone or something means to praise them very highly.` **颂扬**;赞扬
+* [**excoriate**](): `To excoriate a person or organization means to criticize them severely, usually in public.` 批判;**痛斥**;严厉指责
+* [**mollify**](): `If you mollify someone, you do or say something to make them less upset or angry.` 抚慰;安抚 --- 减轻
+* [delude](): `deceive` 欺骗
+* [live up to](): 不辜负
 --------------------------
 
-## T 041
+
+## T 040
 ### Logic
 
 ### Text
 
+For the urban researcher, the long lives of ancient cities can provide ample chronological data, making up for the paucity stemming from relative `youthfulness` of most present-day cities.
 
 ### Verbal
 
-* []():
-* []():
-* []():
-* []():
-* []():
-* []():
-* []():
-* []():
---------------------------
-
-
-## T 041
-### Logic
-
-### Text
-
-
-### Verbal
-
-* []():
-* []():
-* []():
-* []():
-* []():
-* []():
-* []():
-* []():
---------------------------
-
-## T 041
-### Logic
-
-### Text
-
-
-### Verbal
-
-* []():
-* []():
-* []():
-* []():
-* []():
-* []():
-* []():
-* []():
---------------------------
+* [**make up for**](): 弥补
+* [paucity](): If you say that there is a paucity of something, you mean that there is not enough of it. 少量；不足；缺乏
+* [**stem from**](): 来自, 起源于; 由…造成
+* [present-day cities](): 现代城市
+* [transparency](): 透明的/清晰的
