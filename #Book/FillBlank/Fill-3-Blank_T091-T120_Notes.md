@@ -650,16 +650,26 @@ Behavioral economists have come to believe that a **`surfeit`** of choices can b
 ### Text
 
 Laws protecting intellectual property are intended to stimulate creativity, yet some forms of creative work have never enjoyed legal protection --- a situation that ought to be of great interest. 
-If we see certain forms of creative endeavor `proliferating` as a result of uncontrolled copying, we might decide to `jettison` intellectual property law. Conversely, if unprotected creative work `declines in originality` in the absence of legal rules against copying, we would do well to know how such flourishing is sustained. 
+If we see certain forms of creative endeavor `languishing` as a result of uncontrolled copying, we might decide to `extend` intellectual property law. Conversely, if unprotected creative work `manages to thrive` in the absence of legal rules against copying, we would do well to know how such flourishing is sustained. 
 
 ### Verbal
 * [ought to be of great interest](): 应该很感兴趣
 	- [ought to be](): 应当/必定
-* [extend intellectual property law](): 扩大知识产权法的范围。
-* [](): 
-* [](): 
-* [](): 
-* [](): 
+* [**extend** intellectual property **law**](): **扩大**知识产权**法的范围**。
+
+
+* [languishing]():  长期受苦,受折磨 // **变得(越来越)衰弱 ---- 衰落**
+* [proliferating](): 激增 
+* [diversifying](): 变换多样 
+	- [diversify](): vt. & vi. 使多样化；多样化 // 进入新的商业领域
+* [jettison](): vt. 抛弃,丢弃
+
+* [declines in originality](): 在原创性方面降低
+* [manages to thrive](): 成功繁荣 
+	- [thrive](): 繁荣
+		+ `If someone or something thrives, they do well and are successful, healthy, or strong.` 欣欣向荣;茁壮成长;兴旺发达
+		+  `If you say that someone thrives on a particular situation, you mean that they enjoy it or that they can deal with it very well, especially when other people find it unpleasant or difficult.` (尤指在别人觉得困难的时候)以…为乐，可以出色应对
+* [openly invites imitation](): 公开招致模仿
 
 --------------------------
 
@@ -670,41 +680,47 @@ If we see certain forms of creative endeavor `proliferating` as a result of unco
 
 ### Text
 
-Now that photographic prints have become a popular field for collecting, auctions are becoming more `competitive`. It is not just th entry of new collectors into the field that is causing this intensification. Established collectors' interests are also becoming more `antiquarian`. Those who once concentrated on the work of either the nineteenth-century pioneers or the twentieth-century modernists are now keen to have `legitimate` collections.
+Now that photographic prints have become a popular field for collecting, **auctions** are becoming more `competitive`. It is not just th entry of new collectors into the field that is causing this intensification. Established collectors' interests are also becoming more `antiquarian`. Those who once concentrated on the work of either the nineteenth-century pioneers or the twentieth-century modernists are now keen to have `legitimate` collections.
 
 ### Verbal
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
+* [auction](): vt. 拍卖；竞卖
+* [intensification](): n. 强化；加剧；增强明暗度；激烈化
+	- [intensify](): `If you intensify something or if it intensifies, it becomes greater in strength, amount, or degree.` 加强;强化;加剧
 
+* [fickle](): 善变的 
+* [wide-ranging](): 广泛的
+* [antiquarian](): adj. 古文物研究的 --- 过时的
+* [comprehensive](): adj. 广泛的, 综合的
+
+* [have comprehensive collections](): 有广泛的收藏 
 --------------------------
 
 
 ## T 115
 ### Logic
+* deadly poisons ...; But the `...` of the toxins has remained an enigma(unknown)
+	- 已经说过了是致名的毒 --- 所以该毒素的目的与效果其实都已知了。
+	- 只有可能是最后的选项，即 “来源”等，可以被放入空格中。
+
+* 青蛙吃了毒虫，变得皮肤上有毒性
 
 ### Text
 
-The skin of the poison dart frog contains deadly poisons called batrachotoxins. But the `effect` of the toxins has remained an enigma, as the frog does not `suffer form` them. Now an analysis suggests that the melyrid beetle is the source. Collected beetle specimens all contained batrachotixins, suggesting that these beetles are `poisoned` by the frogs.
+The skin of the poison dart frog contains deadly poisons called batrachotoxins. But the `origin` of the toxins has remained an enigma, as the frog does not `produce` them. Now an analysis suggests that the melyrid beetle is the source. Collected beetle specimens all contained batrachotixins, suggesting that these beetles are `eaten` by the frogs.
 
 ### Verbal
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-
+* [enigma](): n. 难于理解的问题、人、物、情况等;奥秘
+* [beetle](): 甲虫
 --------------------------
 
 
 ## T 116
 ### Logic
+
+* 同义改写：
+	- Level 0: mountain formation `Vs.` climate
+	- Level 1: surge of mountain building `Vs.` global cooling
+	- Level 2: widespread mountain building `Vs.` climate
 
 ### Text
 
@@ -712,70 +728,80 @@ There are two opposing theories about mountain formation and climate over the pa
 
 
 ### Verbal
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
+* [surge](): (感情等)洋溢, 奔放
+* [perpetuate](): vt. 使永存；使人记住不忘
+* [**mountain building**](): **山脉** 
 
 --------------------------
 
 
 ## T 117
 ### Logic
+* **Buoyed by** the alacrity of the volunteers, ...
+	- 被那些志愿者干活得敏捷 **所激励**
 
 ### Text
 
-Galaxy Zoo set a standard for citizen-scientist participation project. Zealous volunteers `astonished` the project's organizers by classifying an entire catalog of galaxies years ahead of shcedule. `Embarrased` by the `stoicism` of the volunteers, the Galaxy Zoo team was inspired to pursue lines of reasearch they had never even imagined. 
+Galaxy Zoo set a standard for citizen-scientist participation project. Zealous volunteers `astonished` the project's organizers by classifying an entire catalog of galaxies years ahead of shcedule. `Buoyed` by the `alacrity` of the volunteers, the Galaxy Zoo team was inspired to pursue lines of reasearch they had never even imagined. 
 
 ### Verbal
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
+* [Zealous](): adj. 热心的，热情的，积极的
+
+* [beguiled](): 欺骗
+* [forestalled](): vt. 先发制人, 预先阻止 --- 阻止
+* [astonished](): **使惊奇** 
+
+* [Baffled](): vt. 使困难, 使为难 --- **使迷惑**
+* [Buoyed](): vt. 使浮起；支撑；鼓励 --- **被激励**
+* [Embarrassed](): 被弄得很尴尬
+
+* [insouciance](): n. 不注意 // 不在乎 --- 冷漠
+* [stoicism](): 克制
+* [alacrity](): n. 敏捷；轻快；乐意
 
 --------------------------
 
 
 ## T 118
 ### Logic
-
+* 负--正--负
+	- 第一次转折词：**counter(反对) that (these qualities instead reflect ...)**
+	- 第二次转折词：**however, ...**
 ### Text
 
-While some commentators suggest that abstraction and complexity in scientific reasearch are signs that a given direction is misguided, Lisa Randall, a professor of physics at Harvard, counters that these qualities instead reflect the success of human ingenuity in `creating` the increasingly `pragmatic` challenges that nature presents. They can, however, make it more `unproductive` to communicate scientific developments, even to colleague. 
+While some commentators suggest that abstraction and complexity in scientific reasearch are signs that a given direction is misguided, Lisa Randall, a professor of physics at Harvard, counters that these qualities instead reflect the success of human ingenuity in `meeting` the increasingly `difficult` challenges that nature presents. They can, however, make it more `challenging` to communicate scientific developments, even to colleague. 
 
 ### Verbal
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
+* [commentator](): n. 评论员，时事评论员；注释者；实况广播员
+* [**counter** that ....](): **反对**.... 
+* [challenges that nature presents](): 自然所呈现出的挑战
+
+* [eschewing](): 躲避
+	- [eschew](): vt. 避开；远避；避免
+* [conspicuous](): adj. 显眼的, 明显的
+* [pragmatic](): adj. 务实的；实事求是的；注重实效的
+* [unproductive](): adj. 不毛的,没有收益的,非生产性的,徒然的,没有出产物的
 
 --------------------------
 
-
 ## T 119
 ### Logic
-
+* To make waves large enough to be `detectable`, the most **`violent`** events in the universe are required: supernova explosions, the formation of black holes, or the collision of stars. 
+	- 第二个空不可以选obvious
+		+ 上述的形体活动本身就是剧烈的，但是明显与否取决于空间&观测者的距离
+		+ 本身是剧烈的，才有可能被探测到
 ### Text
 
-Gravitational waves --- ripples in the geometry of space-time --- are analogous to electromagnetic waves. The challenge in trying to observe these waves directly is that they are extremely weak. To make waves large enough to be `detectable`, the most `obvious` events in the universe are required: supernova explosions, the formation of black holes, or the collision of stars. Even so, the effects are `minscule`. The geometry changes so little that a distance of several kilometers changes by less than the diameter of a proton.
+Gravitational waves --- ripples in the geometry of space-time --- are analogous to electromagnetic waves. The challenge in trying to observe these waves directly is that they are extremely weak. To make waves large enough to be `detectable`, the most **`violent`** events in the universe are required: supernova explosions, the formation of black holes, or the collision of stars. Even so, the effects are `minuscule`. The geometry changes so little that a distance of several kilometers changes by less than the diameter of a proton.
 
 ### Verbal
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
-* [](): 
+* [ripple](): n. 波纹；涟漪；涟波
+* [minuscule](): 微不足道的 -- 极小的，**微弱的**
+
+* [**explicable**](): **可以解释的**
+
+* [subtle](): 不明显的 
+* [violent](): 剧烈的, 强烈的 // 暴力引起的, 粗暴的
 
 --------------------------
 
@@ -785,7 +811,7 @@ Gravitational waves --- ripples in the geometry of space-time --- are analogous 
 
 ### Text
 
-For many years, Americans have had a love affair with ferryboats. Ferries are said to relieve our frayed nerves after we've stewed in bumper-to-bumper traffic, and conventional wisdom also says ferries `provocative` congestion and air pollution by getting us out of out cars. Unfortunately, this romantic but `misguided` notion recently has `captivated` several West Coast mayors, who have in consequence eagerly pursued the implementation of ferry service in their cities.
+For many years, Americans have had a love **affair with** ferryboats. Ferries are said to relieve our frayed nerves after we've stewed in bumper-to-bumper traffic, and conventional wisdom also says ferries `provocative` congestion and air pollution by getting us out of out cars. Unfortunately, this romantic but `misguided` notion recently has `captivated` several West Coast mayors, who have in consequence eagerly pursued the implementation of ferry service in their cities.
 
 ### Verbal
 * [](): 
